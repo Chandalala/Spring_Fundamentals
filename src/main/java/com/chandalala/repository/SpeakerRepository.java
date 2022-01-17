@@ -1,6 +1,6 @@
-package repository;
+package com.chandalala.repository;
 
-import model.Speaker;
+import com.chandalala.model.Speaker;
 
 import java.util.List;
 
