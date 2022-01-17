@@ -1,7 +1,7 @@
-package service;
+package com.chandalala.service;
 
-import model.Speaker;
-import repository.SpeakerRepositoryImpl;
+import com.chandalala.model.Speaker;
+import com.chandalala.repository.SpeakerRepositoryImpl;
 
 import java.util.List;
 

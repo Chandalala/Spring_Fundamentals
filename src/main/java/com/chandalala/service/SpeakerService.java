@@ -1,6 +1,6 @@
-package service;
+package com.chandalala.service;
 
-import model.Speaker;
+import com.chandalala.model.Speaker;
 
 import java.util.List;
 

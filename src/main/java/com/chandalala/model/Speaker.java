@@ -1,4 +1,4 @@
-package model;
+package com.chandalala.model;
 
 public class Speaker {
     private String name, surname;

@@ -1,4 +1,6 @@
-import service.SpeakerServiceImpl;
+package com.chandalala;
+
+import com.chandalala.service.SpeakerServiceImpl;
 
 public class Application {
 
